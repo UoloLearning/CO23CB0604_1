@@ -1,0 +1,12 @@
+print(“From Monday to Friday”);
+    print(“My Daily Routine”);
+    print(“6:00   :   Wake up!”);
+    print(“6:30   :   Bath and Shine”);
+    print(“7:00   :   Breakfast”);
+    print(“7:30   :   Off to School”);
+    print(“3:00   :   Home”);
+    print(“3:30   :   Homework”);
+    print(“5:30   :   Playtime”);
+    print(“7:00   :   Dinner”);
+    print(“9:30   :   Sleeping Time”);
+
